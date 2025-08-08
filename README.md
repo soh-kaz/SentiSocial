@@ -69,7 +69,7 @@ pip install -r requirements.txt
   Create a .env file in the root directory and add:
 ```env
 OPENAI_API_KEY=your_openai_api_key
-GEMINI_API_KEY=your_gemini_api_key
+GOOGLE_API_KEY=your_gemini_api_key
 ```
 
 ### 5. Run the App
@@ -78,11 +78,12 @@ streamlit run app.py
 ```
 
 
-## 📷 Workflow
+## 🖼️ Workflow
 <img src="https://raw.githubusercontent.com/soh-kaz/SentiSocial/refs/heads/main/workflow.png" />
 
 ## 🤝 Contributing
 Contributions, suggestions, and feedback are welcome!
 Feel free to open an issue or submit a pull request.
+
 
 
