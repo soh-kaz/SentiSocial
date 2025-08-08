@@ -1,0 +1,255 @@
+{
+  "posts": [
+    {
+      "post_id": 1,
+      "user": "Emma Stone",
+      "content": "Feeling grateful for the little things in life! Had the most relaxing weekend with my family. Sometimes, the best moments are the ones we least expect. 😊💖 #Blessed #FamilyFirst #SimpleJoys",
+      "comments": [
+        {"user": "Olivia Harris", "comment": "Glad you had a peaceful weekend, but not everyone finds family time that relaxing. 😬"},
+        {"user": "Liam Thompson", "comment": "I get what you’re saying, but sometimes family weekends are more stressful than enjoyable."},
+        {"user": "Sophia Turner", "comment": "Sounds nice, but weekends can feel like just another part of the grind, honestly. 😕"},
+        {"user": "Daniel Kim", "comment": "Family time is nice in theory, but sometimes it’s more chaotic than relaxing. 🤷‍♂️"},
+        {"user": "James Patel", "comment": "Good for you, but not everyone has the luxury of having such relaxing weekends."},
+        {"user": "Chloe Williams", "comment": "I hear you, but sometimes I struggle to find those 'little things' when life feels so busy. 😔"},
+        {"user": "Ella Green", "comment": "It looks peaceful, but honestly, sometimes family weekends can feel like more of a hassle than anything."},
+        {"user": "Michael Ross", "comment": "I wish I could say I had a relaxing weekend, but I was running around all weekend. 😅"},
+        {"user": "Jessica Cruz", "comment": "I get the sentiment, but it’s tough to find peace when there’s always so much to do."},
+        {"user": "Zoe Baker", "comment": "It’s great you had a calm weekend, but it can be hard to feel that way with all the responsibilities we juggle."},
+        {"user": "Jackson Lee", "comment": "Family time sounds nice, but sometimes it feels more draining than fun. 😓"},
+        {"user": "Ava Johnson", "comment": "Nice to hear, but for some of us, weekends are just more stress on top of the usual."},
+        {"user": "William Brown", "comment": "It’s easy to say that, but finding peace is a lot harder than it seems."},
+        {"user": "Emily King", "comment": "I’m glad you’re feeling peaceful, but sometimes family weekends aren’t as relaxing as we hope."},
+        {"user": "Ethan Martinez", "comment": "Not everyone finds those moments. Sometimes it’s just not that easy to enjoy life."},
+        {"user": "Mason Miller", "comment": "I get the point, but family time can also be exhausting depending on the situation. 😕"},
+        {"user": "Sophie Scott", "comment": "Family time is great, but sometimes it’s more complicated than it seems. 😬"},
+        {"user": "Lucas Turner", "comment": "It’s easy to post about peaceful weekends, but it’s not always so simple in reality."},
+        {"user": "Harper Green", "comment": "Peaceful weekends are rare for some people. Sometimes it feels like a luxury we don’t get."},
+        {"user": "Owen Davis", "comment": "It’s the little things, but honestly, it’s hard to notice them when life feels so overwhelming."},
+        {"user": "Chloe Martinez", "comment": "Nice sentiment, but for a lot of us, weekends are filled with tasks rather than relaxation."},
+        {"user": "Isla White", "comment": "It’s easy to say that, but not everyone gets to experience that kind of calm."},
+        {"user": "David Adams", "comment": "I get it, but sometimes the best things feel far away when you’re constantly running around."},
+        {"user": "Amelia Wilson", "comment": "It’s great you had a peaceful weekend, but it’s hard to find those moments when life gets busy."},
+        {"user": "Noah Walker", "comment": "Those moments are nice, but they’re harder to come by for a lot of people. 😔"}
+      ]
+    },
+    {
+      "post_id": 2,
+      "user": "Jack Daniels",
+      "content": "Had an amazing workout session this morning! 💪 Feeling strong and ready to crush the rest of the day. #FitnessGoals #StrongerEveryDay #WorkoutVibes",
+      "comments": [
+        {"user": "Liam Thompson", "comment": "Yes, Jack! Keep pushing yourself, bro! 💯"},
+        {"user": "Ava Johnson", "comment": "You’re killing it! How long was the session? 😄"},
+        {"user": "Chloe Baker", "comment": "Love to see this kind of energy! 💥💥"},
+        {"user": "James Patel", "comment": "I need to take some notes from you! Keep it up 💪"},
+        {"user": "Mason Miller", "comment": "Nice work! What workout did you do? 🏋️‍♂️"},
+        {"user": "Isla White", "comment": "Woo! That's how it’s done. 👏"},
+        {"user": "Olivia Harris", "comment": "This is the motivation I needed today! Thanks, Jack! 🙏"},
+        {"user": "Harper Green", "comment": "You’ve got this! Keep crushing those goals 💯"},
+        {"user": "Sophia Turner", "comment": "Love that you’re so consistent! 💪 Let me know if you have any fitness tips!"},
+        {"user": "Ella Green", "comment": "Your dedication is goals! Keep going, Jack! 🔥"},
+        {"user": "Lucas Turner", "comment": "I can barely get myself to work out, haha. You’re inspiring! 😅"},
+        {"user": "Zoe Baker", "comment": "Keep pushing yourself! You’re getting stronger every day. 💪"},
+        {"user": "Owen Davis", "comment": "I need to get in that gym vibe again! Thanks for the push. 😎"},
+        {"user": "Emily King", "comment": "Seeing this post makes me want to get up and start working out right now! 🏃‍♀️"},
+        {"user": "David Adams", "comment": "Respect! Fitness is a journey, not a race. Keep it up! 🏅"},
+        {"user": "Sophia Scott", "comment": "You make working out look easy! 💥"},
+        {"user": "Zoe Martinez", "comment": "Inspiring! Keep leading by example! 💯"},
+        {"user": "Jackson Lee", "comment": "That’s awesome! What’s your workout split? 🙌"},
+        {"user": "William Brown", "comment": "Seeing results like this makes me want to work harder too! 🔥"},
+        {"user": "Emily Adams", "comment": "Work hard, play hard. Love the vibe, Jack! 😎"},
+        {"user": "Mason Thomas", "comment": "Killing it, man! How many sets of squats did you do? 🏋️‍♂️"},
+        {"user": "Harper Green", "comment": "This is the energy we need more of! 💪 Keep going!"},
+        {"user": "Ethan Martinez", "comment": "I should follow your lead and get back into my routine! 💥"},
+        {"user": "Liam Lee", "comment": "That’s a beast mode session! 💪"},
+        {"user": "Ava Martinez", "comment": "This motivates me to get back to the gym after my break! 🏋️‍♀️"},
+        {"user": "Jackie White", "comment": "Proud of you, Jack! Keep those gains coming! 🙌"}
+      ]
+    },
+    {
+      "post_id": 3,
+      "user": "Sophia Turner",
+      "content": "Can’t believe it’s already fall! 🍂 The weather is perfect for cozy sweaters and pumpkin spice lattes. Who’s with me? #FallVibes #CozySeason #PumpkinSpiceEverything",
+      "comments": [
+        {"user": "Olivia Harris", "comment": "Yes! Fall is my favorite time of year. Bring on the cozy vibes! 🍁"},
+        {"user": "Emily King", "comment": "I am SO ready for fall. I’ve already had three pumpkin spice lattes! 😆"},
+        {"user": "Mason Miller", "comment": "I love the fall air! It’s the best time to get outdoors. 🍂"},
+        {"user": "Chloe Baker", "comment": "Pumpkin spice everything! 🙌 Who else is doing their fall decorating yet? 🍁"},
+        {"user": "Isla White", "comment": "Sweater weather is here! Finally, right?! 🧣"},
+        {"user": "Lucas Turner", "comment": "Fall fashion is the best! Bring on the scarves and boots! 👢"},
+        {"user": "James Patel", "comment": "I love fall, but the pumpkin spice lattes? Nah, not for me! 🤣"},
+        {"user": "Harper Green", "comment": "You know it’s fall when the PSLs are back in season. 🍂☕"},
+        {"user": "Jackson Lee", "comment": "The leaves are so pretty right now! Perfect for walks. 🌳"},
+        {"user": "Zoe Baker", "comment": "Pumpkin spice is just the best! But I also love the apple cinnamon ones. 😋"},
+        {"user": "Sophia Scott", "comment": "I love the vibe! Also, fall candles make my house smell amazing. 🕯️"},
+        {"user": "Liam Thompson", "comment": "We don’t get much fall weather here, but I can feel the fall vibes through this post. 🍁"},
+        {"user": "David Adams", "comment": "Time for cozy sweaters and comfy boots! Let’s do this! 🍂"},
+        {"user": "Zoe Martinez", "comment": "I need to make my fall playlist now. Any song suggestions? 🍁"},
+        {"user": "Emily Adams", "comment": "I love how calm fall feels. Can’t wait for those rainy days and cozy afternoons. 🌧️"},
+        {"user": "William Brown", "comment": "This is the season I live for! 🍃"},
+        {"user": "Owen Davis", "comment": "Fall mornings are everything. The crisp air is so refreshing. 🏞️"},
+        {"user": "Sophia Turner", "comment": "How many of you have already started watching Halloween movies? 🎃"},
+        {"user": "Ethan Martinez", "comment": "I can’t wait for all the fall-themed activities. Let’s go apple picking! 🍏"},
+        {"user": "Harper Green", "comment": "Who’s excited for fall fashion? I’m already planning my outfits! 🧥"},
+        {"user": "Olivia Harris", "comment": "Time for all the comfy blankets and hot chocolate. 😌"},
+        {"user": "Jessica Cruz", "comment": "I’m just here for the fall snacks. Anyone else baking pumpkin muffins yet? 🎃"},
+        {"user": "James Patel", "comment": "Just waiting for Halloween to get here! 👻"},
+        {"user": "Sophia Scott", "comment": "Who’s down for a fall photoshoot? 🍂📸"},
+        {"user": "Lucas Turner", "comment": "I’m already wearing sweaters. Can’t stop me! 😂"}
+      ]
+    },
+    {
+      "post_id": 4,
+      "user": "Alex Carter",
+      "content": "Just finished a 10K run this morning! 🏃‍♂️ The sunrise was absolutely stunning, and I hit a new personal best. Feeling on top of the world! 🌅 #RunningLife #MorningMotivation #PersonalBest",
+      "comments": [
+        {"user": "Mia Johnson", "comment": "Wow, Alex! A 10K and a PB? You're killing it! 🏅"},
+        {"user": "Ethan Brooks", "comment": "That's incredible! What's your secret to staying motivated? 😄"},
+        {"user": "Lily Evans", "comment": "Sunrise runs are the best! Congrats on the personal best! 🌞"},
+        {"user": "Noah Lee", "comment": "You're a beast! How long did it take you? 👀"},
+        {"user": "Grace Kim", "comment": "So inspiring! I need to get back into running. Any tips? 🏃‍♀️"},
+        {"user": "Jacob Patel", "comment": "Amazing job, Alex! Bet that sunrise was worth waking up for! 🌅"},
+        {"user": "Emma Davis", "comment": "Congrats on the PB! You're making me want to lace up my sneakers! 💪"},
+        {"user": "Lucas Brown", "comment": "That's some serious dedication! Keep it up! 🔥"},
+        {"user": "Sophie Clark", "comment": "10K before breakfast? You're my hero! 🙌"},
+        {"user": "Oliver Wright", "comment": "Love the sunrise vibes! Congrats on crushing it! 🌄"}
+      ]
+    },
+    {
+      "post_id": 5,
+      "user": "Isabella Nguyen",
+      "content": "Just adopted a rescue puppy! 🐶 Meet Luna, my new best friend. She’s already stealing my heart (and my socks). Any tips for new pet parents? #RescuePup #DogMom #LunaLove",
+      "comments": [
+        {"user": "Ava Wilson", "comment": "OMG, Luna is adorable! 😍 Welcome to the dog mom life!"},
+        {"user": "Liam Harris", "comment": "So cute! Tip: get lots of chew toys. Saves your socks! 🧦"},
+        {"user": "Chloe Adams", "comment": "Aww, Luna looks like such a sweetheart! Congrats! 🐾"},
+        {"user": "Mason Green", "comment": "Rescue pups are the best! Crate training worked wonders for my dog. 🐶"},
+        {"user": "Zoe Martinez", "comment": "She’s precious! Try puppy classes for socialization. 🐕"},
+        {"user": "James Turner", "comment": "Luna is too cute! You’re gonna love being a dog mom! 💖"},
+        {"user": "Ella Scott", "comment": "Those puppy eyes! 😭 Enjoy every moment with her!"},
+        {"user": "Harper Lee", "comment": "Congrats on the new fur baby! Lots of treats and love! 🦴"},
+        {"user": "David Kim", "comment": "Welcome, Luna! Tip: be patient with training, it pays off! 🐾"},
+        {"user": "Sophia Baker", "comment": "She’s so adorable! Can’t wait to see more Luna pics! 🐶"}
+      ]
+    },
+    {
+      "post_id": 6,
+      "user": "Ethan Parker",
+      "content": "Started learning guitar this week! 🎸 It’s tough on the fingers, but I’m already strumming a few chords. Any song recommendations for a beginner? #GuitarJourney #MusicLover #NewHobby",
+      "comments": [
+        {"user": "Olivia Reed", "comment": "That’s awesome, Ethan! Try ‘Wonderwall’ – it’s a classic for beginners! 🎶"},
+        {"user": "William Chen", "comment": "Nice! Keep at it, those calluses will form soon. 😎"},
+        {"user": "Amelia White", "comment": "Love this! ‘Horse with No Name’ is super easy to learn. 🥁"},
+        {"user": "Lucas Patel", "comment": "Guitar is so rewarding! Try ‘Knocking on Heaven’s Door’ for simple chords. 🎸"},
+        {"user": "Zoe Carter", "comment": "You got this! ‘Sweet Home Alabama’ is fun and not too hard. 🎵"},
+        {"user": "Mia Thompson", "comment": "So cool! Post a video when you’ve got a song down! 🎤"},
+        {"user": "Noah Adams", "comment": "Respect for starting guitar! ‘Three Little Birds’ is a great one to learn. 😊"},
+        {"user": "Grace Lee", "comment": "Your fingers will thank you later! Try ‘I’m Yours’ by Jason Mraz. 🌟"},
+        {"user": "Jacob Evans", "comment": "That’s the spirit! ‘Brown Eyed Girl’ is a fun one to practice. 🎶"},
+        {"user": "Sophie Harris", "comment": "Can’t wait to hear you play! ‘Leaving on a Jet Plane’ is a good starter. ✈️"}
+      ]
+    },
+    {
+      "post_id": 7,
+      "user": "Mia Thompson",
+      "content": "Just tried baking sourdough bread for the first time! 🍞 It’s not perfect, but I’m pretty proud of how it turned out. Any bakers out there with tips for a newbie? #HomeBaking #SourdoughJourney #BreadLover",
+      "comments": [
+        {"user": "Lucas Chen", "comment": "That looks amazing, Mia! Try letting the dough rest longer for a fluffier texture. 🥖"},
+        {"user": "Ava Patel", "comment": "Your bread looks so good! What recipe did you use? 😋"},
+        {"user": "Noah Harris", "comment": "Not bad for a first try! Keep the starter fed, it’s key! 🥐"},
+        {"user": "Sophie Lee", "comment": "Wow, I’m impressed! Baking is such an art. Any plans for more? 🍞"},
+        {"user": "Ethan Kim", "comment": "Looks delicious! Try scoring the dough deeper for a cool design. 🔪"},
+        {"user": "Grace Evans", "comment": "That’s awesome, Mia! I’m jealous of your skills already! 😍"},
+        {"user": "Oliver Scott", "comment": "Sourdough is tough! You nailed it. Try adding rosemary next time. 🌿"},
+        {"user": "Zoe Carter", "comment": "Yum! I need to try this. How long did it take you? ⏳"},
+        {"user": "Lily Adams", "comment": "Your bread looks like it’s from a bakery! Teach me your ways! 🥯"},
+        {"user": "Jacob Wright", "comment": "Great job! Patience is everything with sourdough. Keep it up! 💪"}
+      ]
+    },
+    {
+      "post_id": 8,
+      "user": "Liam Brooks",
+      "content": "Finally took a trip to the mountains this weekend! 🏔️ The views were unreal, and the fresh air was just what I needed. Who else loves a good hiking adventure? #MountainEscape #NatureLover #HikingVibes",
+      "comments": [
+        {"user": "Isabella Nguyen", "comment": "Those views are stunning, Liam! Which trail did you do? 🥾"},
+        {"user": "Emma Davis", "comment": "Looks like paradise! I need a hiking trip ASAP. 🌄"},
+        {"user": "Mason Green", "comment": "Man, that’s beautiful! Any wildlife sightings out there? 🦌"},
+        {"user": "Chloe Reed", "comment": "So jealous! Mountains are my happy place. Great pics! 📸"},
+        {"user": "James Turner", "comment": "Epic adventure! How long was the hike? 🏞️"},
+        {"user": "Harper Lee", "comment": "This makes me want to plan a trip! Thanks for sharing the inspo! 🌲"},
+        {"user": "Zoe Martinez", "comment": "Those views are breathtaking! Any tips for beginner hikers? ⛰️"},
+        {"user": "David Kim", "comment": "Looks like an amazing getaway! Did you camp out there too? 🏕️"},
+        {"user": "Sophia Clark", "comment": "Nature is the best reset! Glad you had a great time! 🌿"},
+        {"user": "William Brown", "comment": "Wow, I’m adding that trail to my list! Thanks for the post, Liam! 😎"}
+      ]
+    },
+    {
+      "post_id": 9,
+      "user": "Olivia Reed",
+      "content": "Started a new book club with some friends, and we’re diving into sci-fi this month! 🚀 Just finished ‘Dune’ and I’m obsessed. What’s your favorite sci-fi read? #BookClub #SciFiNerd #ReadingLife",
+      "comments": [
+        {"user": "Ethan Parker", "comment": "Dune is epic! Try ‘The Martian’ next, it’s a wild ride! 📖"},
+        {"user": "Ava Wilson", "comment": "Love this idea! Book clubs are so fun. What’s your next read? 📚"},
+        {"user": "Noah Lee", "comment": "Dune is a classic! You should check out ‘Foundation’ by Asimov. 🌌"},
+        {"user": "Grace Kim", "comment": "Sci-fi is my jam! ‘Ender’s Game’ is a must-read. 😍"},
+        {"user": "Lucas Chen", "comment": "Book club vibes! I’d recommend ‘Neuromancer’ for some cyberpunk action. 💾"},
+        {"user": "Sophie Harris", "comment": "Dune is so good! How’s the book club going? 📖"},
+        {"user": "Jacob Patel", "comment": "Nice! If you like Dune, try ‘Hyperion’ next. It’s mind-blowing! 🚀"},
+        {"user": "Lily Evans", "comment": "I want to join a book club now! Any room for one more? 😄"},
+        {"user": "Mason Scott", "comment": "Sci-fi rules! ‘Blindsight’ by Peter Watts is intense, check it out! 🪐"},
+        {"user": "Zoe Carter", "comment": "Love this! ‘The Left Hand of Darkness’ is my sci-fi fave. 🌠"}
+      ]
+    },
+
+    {
+      "post_id": 10,
+      "user": "Noah Lee",
+      "content": "Just got back from a local farmer’s market! 🥕 Picked up some fresh veggies and homemade jam. Nothing beats supporting local vendors. What’s your favorite market find? #FarmersMarket #SupportLocal #FreshEats",
+      "comments": [
+        {"user": "Mia Thompson", "comment": "Love farmer’s markets! Those veggies look so fresh. What’s in the jam? 😋"},
+        {"user": "Liam Brooks", "comment": "Nice haul, Noah! I always grab fresh honey at my local market. 🍯"},
+        {"user": "Isabella Nguyen", "comment": "That looks amazing! I’m all about homemade bread from markets. 🥖"},
+        {"user": "Ethan Parker", "comment": "Fresh produce is the best! What are you cooking with those? 🥗"},
+        {"user": "Olivia Reed", "comment": "So jealous! I need to hit up my local market soon. Any good tomato finds? 🍅"},
+        {"user": "Sophie Clark", "comment": "Those colors are so vibrant! Love getting fresh herbs at markets. 🌿"},
+        {"user": "Jacob Wright", "comment": "Farmer’s markets are the best vibe! Got any favorite vendors? 🧀"},
+        {"user": "Grace Kim", "comment": "Yum! Homemade jam is my weakness. What flavor did you get? 🍓"},
+        {"user": "Lucas Chen", "comment": "Supporting local feels so good! I always go for fresh eggs. 🥚"},
+        {"user": "Ava Wilson", "comment": "This makes me hungry! Can’t wait to check out my market this weekend. 🥕"}
+      ]
+    },
+    {
+      "post_id": 11,
+      "user": "Sophie Clark",
+      "content": "Tried my hand at pottery this weekend! 🏺 It’s harder than it looks, but I made a wonky little bowl I’m kinda proud of. Anyone else into ceramics? #PotteryFun #NewHobby #CreativeVibes",
+      "comments": [
+        {"user": "Noah Lee", "comment": "That’s so cool, Sophie! Post a pic of that bowl! 🥣"},
+        {"user": "Mia Thompson", "comment": "Pottery is so fun! Don’t worry, wonky bowls have character. 😄"},
+        {"user": "Liam Brooks", "comment": "Nice! I tried pottery once and made a total mess. Respect! 🏺"},
+        {"user": "Isabella Nguyen", "comment": "Love this! What kind of clay did you use? 🖌️"},
+        {"user": "Ethan Parker", "comment": "That sounds like a blast! Are you glazing it too? 🎨"},
+        {"user": "Olivia Reed", "comment": "Wonky bowls are the best! Keep practicing, you’re gonna make masterpieces! 🥰"},
+        {"user": "Jacob Wright", "comment": "Pottery is such a cool skill! Any plans for more projects? 🏵️"},
+        {"user": "Grace Kim", "comment": "So creative! I’d love to try pottery someday. Any tips for beginners? 🖼️"},
+        {"user": "Lucas Chen", "comment": "That’s awesome! Bet it feels so satisfying to make something by hand. 🙌"},
+        {"user": "Ava Wilson", "comment": "Your bowl sounds adorable! Can’t wait to see your next creation! 🌟"}
+      ]
+    },
+    {
+      "post_id": 12,
+      "user": "Jacob Wright",
+      "content": "Started a mini herb garden on my balcony! 🌱 Basil, mint, and rosemary so far. Excited to cook with fresh herbs. Any gardening pros with advice? #UrbanGardening #GreenThumb #HerbGarden",
+      "comments": [
+        {"user": "Sophie Clark", "comment": "Love this, Jacob! Basil is my fave. Make sure it gets lots of sun! ☀️"},
+        {"user": "Noah Lee", "comment": "Fresh herbs are a game-changer! Try adding thyme to your garden. 🌿"},
+        {"user": "Mia Thompson", "comment": "So cool! Mint grows like crazy, watch out! 😄"},
+        {"user": "Liam Brooks", "comment": "Nice setup! Water them sparingly, herbs don’t like soggy soil. 🪴"},
+        {"user": "Isabella Nguyen", "comment": "That’s awesome! Fresh rosemary on pizza is the best. 🍕"},
+        {"user": "Ethan Parker", "comment": "Urban gardening FTW! What are you cooking with those herbs? 🍴"},
+        {"user": "Olivia Reed", "comment": "Your balcony must smell amazing! Try cilantro next! 🌱"},
+        {"user": "Grace Kim", "comment": "Herb gardens are so rewarding! Keep the soil well-drained for happy plants. 🌼"},
+        {"user": "Lucas Chen", "comment": "Love this vibe! Fresh herbs make every dish better. 😋"},
+        {"user": "Ava Wilson", "comment": "So jealous of your garden! Post some pics when it grows! 📸"}
+      ]
+    }
+  ]
+}
