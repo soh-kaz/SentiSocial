@@ -81,9 +81,13 @@ streamlit run app.py
 ## 🖼️ Workflow
 <img src="https://raw.githubusercontent.com/soh-kaz/SentiSocial/refs/heads/main/workflow.png" />
 
+## 📄 License
+This project is licensed under the MIT License.
+
 ## 🤝 Contributing
 Contributions, suggestions, and feedback are welcome!
 Feel free to open an issue or submit a pull request.
+
 
 
 
